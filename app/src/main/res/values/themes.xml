@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+<!--    <style name="Base.Theme.ASLSignLanguage" parent="Theme.MaterialComponents.Light.NoActionBar">-->
+<!--        &lt;!&ndash; Customize your theme as needed &ndash;&gt;-->
+<!--                <item name="colorPrimary">@color/c1</item>-->
+<!--                <item name="colorPrimaryVariant">@color/c2</item>-->
+<!--                <item name="colorOnPrimary">@color/c3</item>-->
+<!--        &lt;!&ndash; Other theme customizations &ndash;&gt;-->
+<!--    </style>-->
+
+    <style name="Base.Theme.ASLSignLanguage" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.ASLSignLanguage" parent="Base.Theme.ASLSignLanguage" />
+
+    <style name="KeyButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">#FFFFFF</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+
+
+</resources>
