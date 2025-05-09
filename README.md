@@ -2,6 +2,14 @@
 
 Welcome to **Vikindo**, your comprehensive American Sign Language (ASL) learning application! This interactive platform combines structured learning modules, engaging quizzes, and real-time practice to help users master ASL effectively. Whether you're a beginner or looking to refine your skills, Vikindo provides the tools you need to learn and communicate with confidence.
 
+## Download
+
+<p align="center">
+    <a href="https://github.com/noureddinelaghribe/vikindo/raw/refs/heads/master/vikindo.apk">
+        <img src="https://raw.githubusercontent.com/noureddinelaghribe/WriteFlow/refs/heads/main/download_apk.png" alt="Get it on Google Play" height="80">
+    </a>
+</p>
+
 ## Screenshots
 
 Here are some screenshots of the WriteFlow app:
